@@ -9,8 +9,8 @@ Tim Archotech:
 - 0706012010039 - Probo Krishnacahya
 - 0706012010055 - Haning Galih Rani Kumbara
 
-### 📱 Tentang Aplikasi
-Sortrash adalah Aplikasi Desktop yang dibuat dengan teknologi Deep Learning. Aplikasi tentang Klasifikasi Citra ini difungsikan untuk mendeteksi objek berupa sampah berdasarkan 3 kategori (jenis) sampah, yaitu:
+### 🖥️ Tentang Aplikasi
+Sortrash adalah Aplikasi Desktop berbasis Graphical User Interface yang dibuat dengan teknologi Deep Learning menggunakan Algoritma Convolutional Neural Network. Aplikasi tentang Klasifikasi Citra ini difungsikan untuk mendeteksi objek berupa sampah berdasarkan 3 kategori (jenis) sampah, yaitu:
 1. Organik
 2. Anorganik Berbahan Kertas
 3. Anorganik Berbahan Non-Kertas
